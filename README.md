@@ -30,8 +30,8 @@ Below are the generated images followed by real images for Test2:
 The codebase is developed on top of official [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch). Kindly follow the similar steps for training and testing.
 
 # Checkpoint
-- model weights for test1 can be downloaded [here](checkpoints/final_test1.pkl)
-- model weights for test2 can be downloaded [here](checkpoints/final_test2.pkl)
+- model weights for test1 can be downloaded [here](https://drive.google.com/drive/folders/1g8-1ZR_e3lLUx2NpS4xZo1jdLDHup_R7?usp=sharing)
+- model weights for test2 can be downloaded [here](https://drive.google.com/drive/folders/1g8-1ZR_e3lLUx2NpS4xZo1jdLDHup_R7?usp=sharing)
 
 
 
