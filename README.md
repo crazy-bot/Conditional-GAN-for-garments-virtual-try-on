@@ -1,4 +1,4 @@
-# Densepose based virtual try on
+# Densepose based virtual try on using Generative Adversarial Network
 
 The goal of this project is to accomplish virtual try on from a single RGB image and target cloth
 
